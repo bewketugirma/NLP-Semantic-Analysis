@@ -7,7 +7,7 @@ This is a Jupyter notebook-based project demonstrating semantic analysis techniq
 - 6.5 Semantic Role Labeling
 
 ## 🔗 Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/semantic_analysis_toolkit.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bewketugirma/NLP-Semantic-Analysis/blob/main/semantic_analysis_toolkit.ipynb)
 
 ## 🚀 Quick Start
 
